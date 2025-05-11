@@ -5,3 +5,5 @@ I
 contracts/allocation.clar,d/2/d242892bac79f0e52f6f94f9d8a07d575254f9a8
 R
 "contracts/demoand-forecasting.clar,d/e/dec55c35bb01270edcb0699191f2ec5714730831
+M
+contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
